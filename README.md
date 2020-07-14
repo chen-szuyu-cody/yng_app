@@ -1,6 +1,6 @@
-# testing_app
+# APP
 
-testing Flutter application.
+Flutter application.
 
 ## Getting Started
 
